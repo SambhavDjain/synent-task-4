@@ -44,4 +44,3 @@ Since the application uses standard web technologies, there's no complex setup r
 - `index.html`: The core HTML template.
 - `style.css`: All styling, theming, and layout rules.
 - `app.js`: Client-side application logic and state management.
-- `main.py`: (Legacy) A command-line interface version of the student management system written in Python.
